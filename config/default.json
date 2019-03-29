@@ -1,0 +1,10 @@
+{
+  "dbConfig": {
+    "host": "mongodb://",
+    "port": 47225,
+    "username": "uladzimir.kudzelka",
+    "password": "vnkudelko1998",
+    "name": "money-manager"
+  },
+  "secretKey": "a9b8c7d6e5f4g3h2i1"
+}
